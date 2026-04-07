@@ -1,6 +1,6 @@
 """
 A Neural Net is just a collection of layers.
-it behaves a lot like a layer itself.
+It behaves a lot like a layer itself.
 I'm not going to make it one.
 """
 
