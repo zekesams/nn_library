@@ -1,5 +1,9 @@
 """
+For each number 1-100
 
+if the number is prime, print 'prime'
+if the number is divisible by 2, print 'even'
+if the number is not divisible by 2, print 'odd'
 """
 
 from typing import List
