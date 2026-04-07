@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "/Users/zekesams/code/nn_library/.venv/bin/python",
+
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#c04848"
+  },
+  "python-envs.defaultEnvManager": "ms-python.python:poetry",
+  "python-envs.defaultPackageManager": "ms-python.python:poetry"
+}
