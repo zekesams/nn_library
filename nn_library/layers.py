@@ -1,5 +1,5 @@
 """
-Our nns will be made up of layers.
+Nns will be made up of layers.
 Each layer needs to pass its inputs forward
 and propagate gradients backward. For ex,
 a neaural net might look like

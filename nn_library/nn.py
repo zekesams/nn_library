@@ -1,7 +1,6 @@
 """
 A Neural Net is just a collection of layers.
 It behaves a lot like a layer itself.
-I'm not going to make it one.
 """
 
 from typing import Sequence, Iterator, Tuple
